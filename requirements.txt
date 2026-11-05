@@ -1,0 +1,11 @@
+streamlit>=1.38
+google-genai>=1.0
+sentence-transformers>=3.0
+chromadb>=1.0
+networkx>=3.2
+pypdf>=4.0
+python-dotenv>=1.0
+plotly>=5.20
+pandas>=2.2
+pytest>=8.0
+fonttools>=4.50

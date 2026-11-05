@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# App data (persisted locally, not committed)
+data/
+chroma_db/
+knowledge_base/
+reports/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Old code kept for reference
+legacy_ollama_version/
+
+# Local Claude Code settings
+.claude/settings.local.json
